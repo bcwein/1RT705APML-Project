@@ -1,0 +1,9 @@
+name: APML
+dependencies:
+  - numpy
+  - python
+  - ipykernel
+  - matplotlib
+  - scipy
+  - seaborn
+  - pandas
