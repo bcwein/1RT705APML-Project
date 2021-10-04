@@ -13,3 +13,11 @@ Bjørn Christian Weinbach:
     Marcus Bonnedahl
     - Message Passing (Q8)
     - Some assistance with other parts (error correcting etc.)
+    
+     Emil Hansson:
+    - Formulation of the model (Q1)
+    - Computing and trouble shooting the model (Q3)
+    - Drew bayesian network to show dependences (Q4)
+    - Helped the start of the implementation of the ADF algorithm (Q6)
+    - Structured the format of the report and fit all questions together
+    - Wrote the introduction and conclusion
