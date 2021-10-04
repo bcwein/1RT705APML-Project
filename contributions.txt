@@ -9,3 +9,7 @@ Bjørn Christian Weinbach:
     - Implemented algorithm for predicting outcome of match (Q7)
     - Applied model to Tennis dataset (Q10)
     - Extended the model to include and predict draw (Q11)
+
+    Marcus Bonnedahl:
+    - Message Passing (Q8)
+    - Some assistance with the other parts (correcting errors etc.)
