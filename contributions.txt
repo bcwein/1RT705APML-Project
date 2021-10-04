@@ -1,0 +1,11 @@
+Contribution Statement for Mini Project Group 22
+
+Bjørn Christian Weinbach:
+    - Proof of conditional independence (Q2)
+    - Computing the model (Q3)
+    - Drew bayesian network and verified conditional independence (Q4)
+    - Implemented the gibbs sampler (Q5)
+    - Implemented algorithm for Assumed Density Filtering (Q6)
+    - Implemented algorithm for predicting outcome of match (Q7)
+    - Applied model to Tennis dataset (Q10)
+    - Extended the model to include and predict draw (Q11)
